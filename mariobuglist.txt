@@ -1,0 +1,13 @@
+bug list
+
+1. moving platform restrict movement of mario
+2. moving platform should back from its original position when game is restarted
+3. apply new boo prefab from lava chunk 5 to all lava chunk boos
+4. lakitu produce big spike and lag especially when there’s too many of them
+5. lakitu must avoid moving platform
+6. boo must avoid moving platform too
+
+
+UI
+
+1. heart ui bug adjust the layout (level complete popup)
